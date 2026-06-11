@@ -40,5 +40,5 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Protizescript&show_icons=true&theme=dracula" />
   <img src="https://github-readme
